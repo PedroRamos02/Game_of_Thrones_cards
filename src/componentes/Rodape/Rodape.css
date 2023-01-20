@@ -1,0 +1,17 @@
+.rodape_ {
+    background-color: #3e4047;
+    height: 213px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.rodape_ img {
+    width: 150px;
+}
+
+.rodape_ p {
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+} 
